@@ -1,0 +1,20 @@
+[TRAIN] epoch=99/100, Loss = 0.35474654726493055
+[TRAIN] epoch=99/100, F1 Score = 0.6090909242630005, AUC Score = 0.5451192259788513, ECE Score = 0.1588217318058014
+[VAL] epoch=99/100, Loss = 0.3523702999720207
+[VAL] epoch=99/100, F1 Score = 0.5714285969734192, AUC Score = 0.6000000238418579, ECE Score = 0.1928286850452423
+[Best checkpoints values] Best_loss = 0.28778297267854214
+[Best checkpoints epochs] epoch = 47
+
+[TRAIN] epoch=47/100, Loss = 0.2874592483425752
+[TRAIN] epoch=47/100, F1 Score = 0.737500011920929, AUC Score = 0.8102590441703796, ECE Score = 0.14658550918102264
+[VAL] epoch=47/100, Loss = 0.28778297267854214
+[VAL] epoch=47/100, F1 Score = 0.5777778029441833, AUC Score = 0.7333333492279053, ECE Score = 0.17114126682281494
+Saving best model based on Loss, in epoch =  47
+best Val_Loss  = 0.28778297267854214
+Generating the validation CSV using the Best Loss Model !
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 13/13 [00:08<00:00,  1.60it/s]
+Results saved to ./Submission_2/val_results.csv
+[Best checkpoints values] Best_loss = 0.28778297267854214
+[Best checkpoints epochs] epoch = 47
+
+
